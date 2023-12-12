@@ -1,0 +1,11 @@
+# ninja log v5
+13	113	7233875593815135	CMakeFiles/oop3.dir/ship/cruiser.cpp.obj	a36cd88dd55dddd2
+8	135	7233875594035165	CMakeFiles/oop3.dir/ship/ship.cpp.obj	59c646e816b5328a
+20	120	7233875593875108	CMakeFiles/oop3.dir/airplane/airplain.cpp.obj	f5b35de8961f81c
+31	136	7233875594035165	CMakeFiles/oop3.dir/ship/carrier.cpp.obj	c2dda0243e1e63b1
+37	138	7233875594065174	CMakeFiles/oop3.dir/map/map.cpp.obj	3ccfb589d8098f3
+46	146	7233875594165179	CMakeFiles/oop3.dir/ship/aircraftCarrier.cpp.obj	2594227c15dca98c
+53	170	7233875594405222	CMakeFiles/oop3.dir/unit/Unit.cpp.obj	bb0bec53f3f194fe
+24	757	7233875600296684	CMakeFiles/oop3.dir/weapon/weapon.cpp.obj	3b6c210fcd8d492b
+3	1077	7233878870858218	CMakeFiles/oop3.dir/main.cpp.obj	2cad94a2a1b826c6
+1077	1503	7233878875057257	oop3.exe	f723d4942b5133fe
